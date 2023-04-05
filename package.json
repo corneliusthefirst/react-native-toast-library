@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-library-rc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A toast library for react native using native toast for android and ios",
   "main": "index.js",
   "scripts": {
