@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-library-rc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A toast library for react native using native toast for android and ios",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,6 @@
   "author": "cornelius",
   "license": "MIT",
   "devDependencies": {
-    "react-native": "^0.41.2"
-  },
-  "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.71.6"
   }
 }
